@@ -3,4 +3,5 @@
 1. AWS Glue >  ETL > 작업 > 작업추가
 - 기본값으로 설정, Python 선택
 2. 스크립트 등록
+- export_to_3s_from_dynamodb.py
 3. 실행
